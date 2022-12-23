@@ -9,6 +9,8 @@
 <hr>
 <img src="photo/5.jpg">
 <img src="photo/4.jpg">
-<img src="photo/3.jpg">
 <img src="photo/2.jpg">
+<img src="photo/3.jpg">
+<img src="photo/7.jpg">
+<img src="photo/8.jpg">
 <img src="photo/1.jpg">
